@@ -1,6 +1,6 @@
 const cars = [
     {
-        vin: '11111111111111111',
+        vin: '1N6SD11S8PC302998',
         make: 'subaru',
         model: 'outback',
         mileage: 21500,
@@ -8,7 +8,7 @@ const cars = [
         transmission: 'automatic',
     },
     {
-        vin: '11111111111111113',
+        vin: '5NPDH4AE7FH545975',
         make: 'ford',
         model: 'focus',
         mileage: 1500,
@@ -16,7 +16,7 @@ const cars = [
         transmission: 'automatic',
     },
     {
-        vin: '11111111111111112',
+        vin: '1FTZF1727WKB94557',
         make: 'chevy',
         model: 'equinox',
         mileage: 131542,
